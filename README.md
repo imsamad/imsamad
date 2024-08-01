@@ -16,13 +16,6 @@ I'm a Full-Stack Developer with 3 years of experience in the domain and 1 year o
 
 - Depends on the project, can adapt quickly
 
-## 🌱 Current Learning Goals
-
-- Furthering my expertise in DevOps practices and tools
-- Exploring new programming paradigms and languages
-- Master Rust
-- Solve more DSA
-
 ### Some of my favorite projects
 
 - [Stock Exchange](https://github.com/imsamad/exchange) - Stock exchange project enabling users to place within sub-millisecond latency and provide constant live streaming of the order book and trades
