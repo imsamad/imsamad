@@ -2,7 +2,7 @@ Hello, I'm Abdus Samad! 👋 ![](https://komarev.com/ghpvc/?username=imsamad)
 
 I'm a Full-Stack Developer, have been in this domain since last 3 years and have 1 year of professional experince. I always aim write scalable and code quality .
 
-### I'm a Software Engineer with expertise in
+### SkillSet
 
 - TypeScript/JavaScript
 - ReactJS
